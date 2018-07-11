@@ -1,2 +1,2 @@
 # LondonAtlas
-Bartlett London Atlas 
+London Atlas Codebase
